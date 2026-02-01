@@ -30,4 +30,4 @@ Areesha Amir
 Bioinformatics Student  
 
 ## GitHub Repository
-https://github.com/yourusername/Bioinformatics-Portfolio
+https://github.com/ruqiaarshad135/Bioinformatics-Portfolio
