@@ -6,8 +6,10 @@
 Perform basic bioinformatics analysis of the SALL4 gene to demonstrate basic computational biology skills.
 
 ## Tools Used
-- NCBI BLAST
-- ExPASy ProtParam
+- NCBI
+- BLAST
+- ExPASy
+- ProtParam
 
 ## Steps
 1. Downloaded SALL4 gene/protein sequence from NCBI
